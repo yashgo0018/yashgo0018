@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a nft marketplace
+- 🌱 I’m currently learning blockchain development
+- 💬 Ask me about blockchain development
+- 📫 How to reach me: yashgo0018@gmail.com
+
 <!--
 **yashgo0018/yashgo0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
