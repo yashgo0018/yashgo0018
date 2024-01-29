@@ -6,7 +6,7 @@
 - 🌱 I’m passionate about leading and innovating in the Blockchain space.
 - 💼 Extensive experience in Blockchain and Backend Development.
 - 🎓 Avid learner and open-source enthusiast with a strong interest in **Machine Learning** and **Zero Knowledge Proofs**.
-- 🛠️ Skilled in **Solidity, ethers.js, Hardhat, React, Node.js, Golang, Python, Django**, and more. Learning **Rust**.
+- 🛠️ Skilled in **Solidity, viem, ethers.js, Hardhat, React, Node.js, Golang, Python, Django**, and more. Learning **Rust**.
 - 🏆 Proud recipient of multiple hackathon awards, showcasing my skill and dedication to blockchain technology.
 
 ---
