@@ -30,7 +30,7 @@
 
 💬 **Let's Connect:**
 - 📫 How to reach me: [contact@yashgoyal.dev](mailto:contact@yashgoyal.dev)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yash-goyal-0018/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yash-goyal-0018)
 - 📝 Visit my [Website](https://yashgoyal.dev).
 - 🐦 Follow me on [Twitter](https://twitter.com/yash_goyal_dev) for updates on technology and industry news.
 
