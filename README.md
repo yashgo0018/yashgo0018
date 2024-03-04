@@ -66,7 +66,6 @@ Golang      ██████████████████░░░░  
 
   <br/>
   
-  <a href="https://github.com/yashgo0018/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgo0018&langs_count=8&count_private=true&width=500&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 ---
 
 ⚡ **Fun fact:** I love diving into new technologies and creating innovative solutions that challenge the boundaries of current blockchain applications.
