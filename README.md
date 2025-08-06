@@ -100,7 +100,7 @@ passion: Building bleeding-edge tech that solves real-world problems
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgo0018&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=yashgo0018&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
